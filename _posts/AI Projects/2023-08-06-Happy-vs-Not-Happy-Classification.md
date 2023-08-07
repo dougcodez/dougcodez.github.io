@@ -4,10 +4,10 @@ title: Happy vs Not Happy Classification
 ---
 
 # Happy vs Not Happy Classification
-# About
+## About
 This project focuses on the classification of a set of images into two categories: happy and not happy. By employing convolutional models, we will be able to effectively classify these images and gain insights into the distinguishing features that contribute to their respective labels.
 
-# Dataset Information
+## Dataset Information
 Below represents the information about the dataset we worked with:
 
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/ecff72a1-b8d1-40eb-9f08-1e75f704ea75)
