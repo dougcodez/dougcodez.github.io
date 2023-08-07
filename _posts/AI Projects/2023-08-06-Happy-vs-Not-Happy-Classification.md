@@ -3,6 +3,7 @@ tag: AI Projects
 title: Happy vs Not Happy Classification
 ---
 
+# Happy vs Not Happy Classification
 # About
 This project focuses on the classification of a set of images into two categories: happy and not happy. By employing convolutional models, we will be able to effectively classify these images and gain insights into the distinguishing features that contribute to their respective labels.
 
