@@ -9,13 +9,8 @@ This project focuses on the classification of a set of images into two categorie
 
 # Dataset Information
 Below represents the information about the dataset we worked with:
-| Category | Dataset Category | Image Amount | 
-|-----------|------------------|--------------|
-| Happy     | Training         |  14          |
-| Not Happy | Training         |  14          |
-| Happy     | Validation       |  5           |
-| Not Happy | Validation       |  5           |
-| Mix       | Testing          |  3           |
+![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/ecff72a1-b8d1-40eb-9f08-1e75f704ea75)
+
 
 Now that you have an idea of what the dataset looks like lets get into the code!
 
