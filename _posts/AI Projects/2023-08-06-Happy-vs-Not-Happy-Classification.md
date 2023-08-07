@@ -335,7 +335,7 @@ for i in os.listdir(dir_path):
     else:
         print('Happy!')
 ```
-We takes the images from the given directory and plot it along with converting the image to a numpy array + expanding its dimensions to match the expected shape for model prediction
+We take the images from the given directory and plot it along with converting the image to a numpy array + expanding its dimensions to match the expected shape for model prediction
 
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/d7284397-0d1f-442e-a2f8-5df6076d6e26)
 
