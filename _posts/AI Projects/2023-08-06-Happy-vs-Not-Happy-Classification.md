@@ -346,3 +346,5 @@ We takes the images from the given directory and plot it along with converting t
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/7438c420-5c39-42bc-be2a-c5d3f1ddcfb4)
 
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/f1d6ab23-72dd-486d-bef9-eae79eb08326)
+
+Link to the code, data, etcetera can be found here: https://github.com/All-Around-AI/Happy-vs-Not-Happy-Classification
