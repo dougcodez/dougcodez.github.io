@@ -9,6 +9,7 @@ This project focuses on the classification of a set of images into two categorie
 
 # Dataset Information
 Below represents the information about the dataset we worked with:
+
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/ecff72a1-b8d1-40eb-9f08-1e75f704ea75)
 
 
@@ -19,9 +20,7 @@ First we need to unzip our given zip folder that withholds all our pictures, and
 ``` python
 !unzip '/content/happy vs not happy.zip'
 ```
-
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/02ff4230-232b-42bd-a821-5e1626f3b8b7)
-
 
 With the images extracted, the next step is to import the libraries and modules needed for our data analysis and machine learning tasks. Here are the given imports we 
 need for this project: 
