@@ -19,7 +19,9 @@ First we need to unzip our given zip folder that withholds all our pictures, and
 ``` python
 !unzip '/content/happy vs not happy.zip'
 ```
+
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/02ff4230-232b-42bd-a821-5e1626f3b8b7)
+
 
 With the images extracted, the next step is to import the libraries and modules needed for our data analysis and machine learning tasks. Here are the given imports we 
 need for this project: 
