@@ -2,7 +2,7 @@
 tag: $SVM$
 title: Introduction to Support Vector Machines (SVM)
 ---
-
+# Introduction to Support Vector Machines (SVM)
 ### Overview 
 Support Vector Machines are a type of supervised learning algorithm that is used for classification or regression tasks. The use of
 SVMs are to find a hyperplane that maximally separates the different classes in the given training data. We do this by finding 
