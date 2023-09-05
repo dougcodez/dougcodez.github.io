@@ -6,7 +6,7 @@ title: Introduction to Support Vector Machines (SVM)
 ### Overview 
 Support Vector Machines are a type of supervised learning algorithm that is used for classification or regression tasks. The use of
 SVMs are to find a hyperplane that maximally separates the different classes in the given training data. We do this by finding 
-the hyperplane with the largest margin, which is definesd as the given distance betweem the hyperplane and the closest data points
+the hyperplane with the largest margin, which is defined as the given distance between the hyperplane and the closest data points
 from each class. Once we have an idea where the hyperplane lies, new data can be classified by determining which side of
 the hyperplane the data belongs to. SVMs are practically useful when the data contains many features, and/or when there is a 
 clear margin of separation in the data. 
