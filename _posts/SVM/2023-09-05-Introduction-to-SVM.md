@@ -23,6 +23,8 @@ line, then such data is termed as linearly separable data, and classifier is use
   
 ![image](https://github.com/dougcodez/dougcodez.github.io/assets/98244802/2886106f-b942-4389-8c42-791b7e821d0e)
 
+**Non-Linear SVM**
+
 Non-Linear SVM is used for non-linearly separated data, which means if a dataset cannot be classified by using a straight line, then
 such data is termed as non-linear data and classifier used is called as Non-linear SVM classifier
 
